@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Covid Scanner</string>
+    <string name="school_name">Enter School name</string>
+    <string name="school_mail">Enter School\'s email address</string>
+    <string name="enter_password">Enter password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="btn_register">Register</string>
+    <string name="registering">Registering new user...please wait...</string>
+    <string name="login_text">Login</string>
+    <string name="forgot_password">Forgot password? Click here to reset...</string>
+    <string name="dialog_message">Please provide us with an email associated with the account you want to reset the password for...</string>
+    <string name="sending_instructions">Sending reset instructions...please wait...</string>
+    <string name="logging_out">Logging out...please wait...</string>
+    <string name="authenticating">Authenticating user...please wait...</string>
+    <string name="adding_learner">Adding Learner...please wait...</string>
+    <string name="travel_in_high_risk_country">Did you travel to a high risk country in the last 14 days?</string>
+    <string name="contact_with_anyone">Did you have contact with anyone with confirmed COVID-19 in the last 14 days?</string>
+    <string name="do_you_have_symptoms">Do you have symptoms such as fever, cough and difficulty breathing?</string>
+    <string name="submit">Submit</string>
+    <string name="enter_temperature">Enter temperature</string>
+    <string name="checking_user">Checking user...please wait...</string>
+</resources>
